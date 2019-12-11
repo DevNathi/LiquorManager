@@ -3,7 +3,7 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 15
 VisualStudioVersion = 15.0.28307.852
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LQMDataMnager", "LQMDataMnager\LQMDataMnager.csproj", "{09027E8C-F4B5-47F1-B045-DE6934EE8857}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LQMDataManager", "LQMDataMnager\LQMDataManager.csproj", "{09027E8C-F4B5-47F1-B045-DE6934EE8857}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
